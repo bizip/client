@@ -1,23 +1,17 @@
-import logo from './logo.svg';
-import './App.css';
-
+import React from 'react';
+// import InputTodo from './components/AddTodo';
+import Navigation from './components/Navigation';
+import Landing from './components/Landing';
+import Destinations from './components/Destinations';
+import Footer from './components/Footer';
+import './styles/main.css';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+    <Navigation />
+    <Landing />
+    <Destinations />
+    <Footer />
     </div>
   );
 }

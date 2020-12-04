@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.sr-only{
+    position:absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow:hiden;
+    clip: rect(1px,1px,1px,1px);
+    clip: rect(1px,1px,1px,1px);
+}
+.round-corner{
+    border-radius: 0px 0px 5000px 0px;
+}
