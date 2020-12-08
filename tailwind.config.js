@@ -83,7 +83,8 @@ module.exports = {
       'gradient-to-l': 'linear-gradient(to left, var(--tw-gradient-stops))',
       'gradient-to-tl': 'linear-gradient(to top left, var(--tw-gradient-stops))',
       'landing-bg':"url('../images/bg-img.png')",
-      'footer-bg':"url('../images/footer.png')"
+      'footer-bg':"url('../images/footer.png')",
+      'hotel-bg':"url('../images/hotel.jpg')"
     },
     backgroundOpacity: (theme) => theme('opacity'),
     backgroundPosition: {

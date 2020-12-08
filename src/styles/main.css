@@ -4221,6 +4221,10 @@ video {
   background-image: url('../images/footer.png');
 }
 
+.bg-hotel-bg {
+  background-image: url('../images/hotel.jpg');
+}
+
 .from-transparent {
   --tw-gradient-from: transparent;
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -32835,6 +32839,10 @@ video {
     background-image: url('../images/footer.png');
   }
 
+  .sm\:bg-hotel-bg {
+    background-image: url('../images/hotel.jpg');
+  }
+
   .sm\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -61391,6 +61399,10 @@ video {
 
   .md\:bg-footer-bg {
     background-image: url('../images/footer.png');
+  }
+
+  .md\:bg-hotel-bg {
+    background-image: url('../images/hotel.jpg');
   }
 
   .md\:from-transparent {
@@ -89951,6 +89963,10 @@ video {
     background-image: url('../images/footer.png');
   }
 
+  .lg\:bg-hotel-bg {
+    background-image: url('../images/hotel.jpg');
+  }
+
   .lg\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -118509,6 +118525,10 @@ video {
     background-image: url('../images/footer.png');
   }
 
+  .xl\:bg-hotel-bg {
+    background-image: url('../images/hotel.jpg');
+  }
+
   .xl\:from-transparent {
     --tw-gradient-from: transparent;
     --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to, rgba(0, 0, 0, 0));
@@ -147065,6 +147085,10 @@ video {
 
   .\32xl\:bg-footer-bg {
     background-image: url('../images/footer.png');
+  }
+
+  .\32xl\:bg-hotel-bg {
+    background-image: url('../images/hotel.jpg');
   }
 
   .\32xl\:from-transparent {
